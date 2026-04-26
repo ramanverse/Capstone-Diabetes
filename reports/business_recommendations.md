@@ -50,3 +50,5 @@
 - **Expected Impact:** EHR-integrated risk scoring has been shown to reduce unnecessary discharges and improve care team alerting. A conservative 10% improvement in identifying high-risk patients before discharge, applied to 71,000 unique patients, could prevent 800+ avoidable readmissions annually worth $2.4M.
 - **Priority:** Medium
 - **Owner:** Clinical Informatics / Hospital IT / Medical Director
+
+<!-- updated by Abhijeet -->
