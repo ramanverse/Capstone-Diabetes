@@ -16,10 +16,10 @@
 | Member | Role |
 |---|---|
 | Raman | ETL Lead |
-| [Teammate 2] | Analysis Lead |
-| [Teammate 3] | Statistics Lead |
-| [Teammate 4] | Dashboard Lead |
-| [Teammate 5] | Reporting Lead |
+| Abhijeet | Analysis Lead |
+| Vaibhav Singh | Statistics Lead |
+| Ashish Singh Naruka | Dashboard Lead |
+| Ayush Shukla | Reporting Lead |
 
 ---
 

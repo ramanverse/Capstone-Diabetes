@@ -12,10 +12,10 @@
 | Role | Name | GitHub Handle |
 |---|---|---|
 | ETL Lead | Raman | [@ramanverse](https://github.com/ramanverse) |
-| Analysis Lead | [Teammate 2] | [@username] |
-| Statistics Lead | [Teammate 3] | [@username] |
-| Dashboard Lead | [Teammate 4] | [@username] |
-| Reporting Lead | [Teammate 5] | [@username] |
+| Analysis Lead | Abhijeet | [@username] |
+| Statistics Lead | Vaibhav Singh | [@username] |
+| Dashboard Lead | Ashish Singh Naruka | [@username] |
+| Reporting Lead | Ayush Shukla | [@username] |
 
 **GitHub Repository:** https://github.com/ramanverse/Capstone-Diabetes
 
