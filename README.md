@@ -1,5 +1,8 @@
 # 🏥 Diabetic Patient Readmission Risk Analysis
 
+**Group Name:** Diabetes Insights Team  
+**Group Members:** Raman; Abhijeet; Vaibhav Singh; Ashish Singh Naruka; Ayush Shukla  
+
 > **Capstone 2 — Data Analytics Simulation**
 > **Sector:** Healthcare | **Institution:** [Your Institute Name]
 
@@ -88,11 +91,11 @@ jupyter notebook notebooks/05_final_load_prep.ipynb
 
 | Name | Role | GitHub | Key Deliverables |
 |---|---|---|---|
-| Raman | ETL Lead | [@ramanverse](https://github.com/ramanverse) | Notebooks 01, 02 + Repo Setup |
-| [Teammate 2] | Analysis Lead | [@username] | Notebooks 03 (EDA) |
-| [Teammate 3] | Statistics Lead | [@username] | Notebook 04 (Statistical Analysis) |
-| [Teammate 4] | Dashboard Lead | [@username] | Notebook 05 + Tableau Dashboard |
-| [Teammate 5] | Reporting Lead | [@username] | Report, Recommendations, Gate 1 |
+| Raman; Abhijeet; Vaibhav Singh; Ashish Singh Naruka; Ayush Shukla | Team Members | [@ramanverse](https://github.com/ramanverse) | Notebooks 01, 02 + Repo Setup |
+| Abhijeet | Analysis Lead | [@username] | Notebooks 03 (EDA) |
+| Vaibhav Singh | Statistics Lead | [@username] | Notebook 04 (Statistical Analysis) |
+| Ashish Singh Naruka | Dashboard Lead | [@username] | Notebook 05 + Tableau Dashboard |
+| Ayush Shukla | Reporting Lead | [@username] | Report, Recommendations, Gate 1 |
 
 ---
 
