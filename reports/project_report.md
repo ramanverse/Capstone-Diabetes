@@ -3,6 +3,9 @@
 
 ---
 
+**Group Name:** Diabetes Insights Team  
+**Group Members:** Raman; Abhijeet; Vaibhav Singh; Ashish Singh Naruka; Ayush Shukla  
+
 **Title:** Predicting 30-Day Hospital Readmission in Diabetic Patients: A Data-Driven Approach to Reducing Avoidable Healthcare Costs
 
 **Sector:** Healthcare
